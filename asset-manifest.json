@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YourHouseHub/static/css/main.33cb972b.css",
+    "main.js": "/YourHouseHub/static/js/main.a019eb57.js",
+    "static/media/back.jpg": "/YourHouseHub/static/media/back.bf47c3b18db67d5c5c39.jpg",
+    "static/media/offer-bg.jpg": "/YourHouseHub/static/media/offer-bg.978fd914ad7cfb9c7c3c.jpg",
+    "index.html": "/YourHouseHub/index.html",
+    "main.33cb972b.css.map": "/YourHouseHub/static/css/main.33cb972b.css.map",
+    "main.a019eb57.js.map": "/YourHouseHub/static/js/main.a019eb57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33cb972b.css",
+    "static/js/main.a019eb57.js"
+  ]
+}
